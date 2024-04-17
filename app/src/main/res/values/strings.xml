@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Judgement</string>
+
+    <!-- Activity Names -->
+    <string name="scorebaord_activity_name">Scoreboard</string>
+</resources>
